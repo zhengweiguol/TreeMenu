@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/The3rd/TreeMenu/Demo.unity
+  isLoaded: 1
+  isActive: 1
